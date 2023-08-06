@@ -42,7 +42,7 @@ utterancesLabel = "" # optional
 [menu]
 
 [[menu.main]]
-identifier = "about"
+identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 1
