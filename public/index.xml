@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OTTAWA-CARLETON MATH COMPETITION</title>
-    <link>https://ottawa-math-competition.github.io/website/</link>
+    <link>localhost:1313/</link>
     <description>OTTAWA-CARLETON MATH COMPETITION</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="https://ottawa-math-competition.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ottawa-math-competition.github.io/website/</link>
+      <link>localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ottawa-math-competition.github.io/website/</guid>
-      <description>&lt;p&gt;This is the official website for anything regarding the Ottawa-Carleton Math Competition.&lt;/p&gt;
-&lt;p&gt;This competition is currently being ran by:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Justin Dai&lt;/li&gt;
-&lt;li&gt;Muhammad Wasif Kamran&lt;/li&gt;
-&lt;li&gt;Eric Sui&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can find past papers on the archive page.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+      <guid>localhost:1313/contact/</guid>
+      <description>&lt;p&gt;In order to contact us for any concerns regarding the competition, please send an email to &lt;code&gt;hello -at- domain -dot- ca&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
