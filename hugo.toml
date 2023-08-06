@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://ottawa-math-competition.github.io/website/"
 languageCode = "en-us"
 title = "OTTAWA-CARLETON MATH COMPETITION"
 theme = "anubis"
