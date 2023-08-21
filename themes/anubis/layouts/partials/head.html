@@ -19,6 +19,9 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 
+<link href="https://fonts.cdnfonts.com/css/latin-modern-roman" rel="stylesheet">
+                
+
 {{ partial "favicons.html" . }}
 
 {{ $style := "light-without-switcher" }}
