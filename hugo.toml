@@ -1,6 +1,6 @@
 baseURL = "https://ottawa-math-competition.github.io/website/"
 languageCode = "en-us"
-title = "OTTAWA-CARLETON MATH COMPETITION"
+title = "Ottawa Team Math Competition"
 theme = "anubis"
 paginate = 3
 
@@ -35,17 +35,27 @@ utterancesLabel = "" # optional
 # id = "docs"
 # url = "https://gohugo.io/documentation/"
 
-# [[params.social]]
-# id = "github"
-# url = "https://github.com/mitrichius/hugo-theme-anubis"
+[[params.social]]
+id = "github"
+url = "https://github.com/mitrichius/hugo-theme-anubis"
+
+[[params.social]]
+id = "email"
+name = "hello@otmac.ca"
 
 [menu]
+
+[[menu.main]]
+identifier = "details"
+name = "Details"
+url = "/details/"
+weight = 1
 
 [[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "/contact/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Archive"

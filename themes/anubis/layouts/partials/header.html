@@ -1,6 +1,6 @@
 <div class="header-top">
     {{ partial "site-title.html" . }}
-    {{ partial "social.html" . }}
+
 </div>
 {{ if .Site.Menus.main }}
     <nav>
@@ -16,3 +16,6 @@
 {{ if .Site.Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
 
 {{ partial "header-extra.html" . }}
+<center>
+        {{ partial "social.html" . }}
+</center>

@@ -228,10 +228,6 @@ header h2 {
     vertical-align: middle;
 }
 
-.site-title {
-    white-space: nowrap;
-}
-
 header nav:not(:empty){
     background: var(--nav-bg-color);
     margin-top: 1em;
