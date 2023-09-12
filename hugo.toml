@@ -1,4 +1,4 @@
-baseURL = "https://ottawa-math-competition.github.io/website/"
+baseURL = "https://www.otmac.ca/"
 languageCode = "en-us"
 title = "Ottawa Team Math Competition"
 theme = "anubis"
