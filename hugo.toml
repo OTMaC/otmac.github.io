@@ -60,7 +60,7 @@ weight = 2
 [[menu.main]]
 name = "Archive"
 identifier = "archive"
-url = "/posts/"
+url = "/archive/"
 weight = 3
 
 [markup.goldmark.renderer]
