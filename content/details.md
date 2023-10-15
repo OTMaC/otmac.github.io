@@ -1,4 +1,4 @@
-The contest will be held in-person around October 16th 2023.  
+The contest will be held in-person around the end of November 2023.  
 
 ## Registration
 
