@@ -7,6 +7,10 @@ This competition is currently being ran by:
 - Eric Sui 
 - Daniel Wang
 
+With the help of:
+- Khalil Burns
+- Tong Tong Lu
+
 The competition is open to all students who have not yet graduated high school and those that live in Ottawa. 
 
 2023 will be the first year this competition will be running, so there is no archive of past problems. However, keep checking this website as we will upload sample problems! 
