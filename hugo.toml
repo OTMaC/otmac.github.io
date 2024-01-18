@@ -12,7 +12,7 @@ name = "Ottawa Team Math Competition (OTMaC)"
 
 [params]
 author = "Ottawa Team  Math Competition (OTMaC)"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+description = "OTMaC is a team based math competition in Ottawa."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
