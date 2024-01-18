@@ -1,21 +1,21 @@
-The contest will be held in-person around the end of November 2023.  
+The contest will be held in-person at the Beaverbrook Library on Feb 24, 2024. For any questions, email us at `hello@otmac.ca` or join our [Discord server](https://discord.gg/uTv98NNKtw).
 
 ## Registration
 
-To register a team for the contest, send us an email (`hello -at- otmac -dot- ca`) and include a list of all your team members. 
+To register a team for the contest, you must fill out the registration form [here](https://forms.gle/o1MzGwCdYTTgtoZR7). 
 
 ## Competition Style
 
-We have multiple stages to our competition - similar to HMMT and SuMAC. The winners overall will be determined by their performances in each section/stage. In any given round, problems can appear from combinatorics, number theory, algebra, and geometry. It is guaranteed that no calculation will require calculus. Calculators are not allowed.
+We have multiple stages to our competition - similar to HMMT and CTMC, if you've participated in those contests before. There's going to be three rounds and the winners will be decided based on their performances in all the stages. In any given round, problems can appear from combinatorics, number theory, algebra, and geometry with the guarantee that calculus is not required. Calculators are not allowed. The three rounds that will take place are Individual, Team, and Tournament. 
 
 ### Individual 
 
-For this round, each person has an hour to answer 10 short answer questions with an integer between 0 and 999. The team score is determined by the sum of each team members score. 
+This will be the first round lasting 1 hour. Each person will work by themselves and a team's overall score will be the sum of each of the individual scores. The responses will be short answer (so showing your work is not necessary).  
 
 ### Team  
 
-Teams of four will compete against each other with 20 short answer problems. However, each problem will have a different point value and the score for the round will be the sum of all problem values solved.  
+In this round, 20 multiple choice problems will be given and everyone in a team will work together to solve these problems in 50 minutes.
 
 ### Tournament 
 
-The top 4 teams based on Individuals and Teams will face each other in a elimination tournament to determine the final 3 winners.        
+The final round will be a tournament style competition between the top four teams based on Individual and Team scores. The four teams will compete against one another with the team that solves the problems first progressing onto the next round.  
