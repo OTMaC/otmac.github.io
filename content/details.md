@@ -1,4 +1,4 @@
-The contest will be held in-person at the Beaverbrook Library on Feb 24, 2024 (12:30 PM). For any questions, email us at `hello@otmac.ca` or join our [Discord server](https://discord.gg/uTv98NNKtw).
+The date and location for the contest is not yet determined for OTMaC 2025. For any questions, email us at `hello@otmac.ca` or join our [Discord server](https://discord.gg/uTv98NNKtw).
 
 ## Registration
 
