@@ -2,11 +2,12 @@ This is the official website for anything regarding the Ottawa Team Math Competi
 
 This competition is currently being ran by: 
 
-- Justin Dai 
-- Muhammad Wasif Kamran
-- Eric Sui 
-- Daniel Wang
+- Matthew Zhu
+- Rex Li
+- Karan Chawla
+- Eric Song
+- Emily Zhang
 
 The competition is open to all students who have not yet graduated high school and those that live in Ottawa. 
 
-2024 will be the first year this competition will be running, so there is no archive of past problems yet. However, keep checking this website as we will upload sample problems! 
+2025 will be the second annual edition of this competition. The problems from last year's contest can be found in the Archive. However, keep checking this website as we will upload more sample problems soon. Good luck!
